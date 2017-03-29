@@ -1,5 +1,5 @@
 ---
-title: "Everyday LA: Aleksandra's Pilot (04.03.2017)"
+title: "Everyday LA: Aleksandra's Pilot (01.04.2017)"
 output: 
   flexdashboard::flex_dashboard
 runtime: shiny
