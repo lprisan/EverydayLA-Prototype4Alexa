@@ -25,3 +25,5 @@ Planned time: 90-120 mins
 * Each presenting student summarizes in **1 minute** the most interesting thing they've learned in the session
 * The floor is opened to the audience to note (briefly!) other interesting lessons learned in the session
 * The session chair opens up the [session dashboard](https://luispprieto.shinyapps.io/dashboard4alexa/#section-overall){:target="_blank"}, and shows it to the participants
+
+* Give feedback about the lesson experience in the [http://prolearning.realto.ch](Prolearning) tool
